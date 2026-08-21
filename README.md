@@ -2,7 +2,7 @@
 ## projeto ensalamento da faculdade    
 
 **quais pessoa vão usar o projeto:**
--Alunos
+-alunos
 - professores
 - monitores
 - cordenadores
